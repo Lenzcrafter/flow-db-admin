@@ -1,6 +1,6 @@
 Meteor Flow DB Admin
 ============
-`$ meteor add sach:flow-db-admin`
+`$ meteor add jefflenz:flow-db-admin`
 
 A fork of yogiben:admin package to work with flow-router instead of iron:router
 
